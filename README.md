@@ -6,4 +6,3 @@ Repository for the practical machine learning project on coursera.org
 * [activityquality.Rmd](./activityquality.Rmd): R markdown document for course project.
 * [activityquality.md](./activityquality.md): markdown document for course project.
 * [activityquality.html](./activityquality.html): Compiled html file for course project.
-* [testcases](./testcases): Folder containing output of all 20 prediction test case files.
